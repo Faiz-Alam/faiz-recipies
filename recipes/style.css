@@ -1,0 +1,19 @@
+body{
+    background-color: #f6f7e0;
+}
+.home{
+    color: brown;
+}
+h1{
+    text-align: center;
+    color: rgb(244, 8, 8);
+    font-family: cursive,'Times New Roman', Times, serif,sans-serif,'Courier New', Courier, monospace;
+}
+img{
+    /* text-align: center ; */
+    display: block;
+    margin: auto;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
